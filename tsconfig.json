@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "es6",
+		"esModuleInterop": true,
+		"target": "es2017",		
+		"sourceMap": false,
+		"outDir": "dist",
+		"rootDir": "src"
+	},
+	"lib": ["es2017"]
+}
